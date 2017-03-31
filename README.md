@@ -48,3 +48,5 @@ Some caveats: Distances between cities were calculates using the haversine formu
 After writing the code to complete the table, I decided I would use the coordinate data I had used to make a nice visualization of the data. Using matplotlib and Basemap, I was able to create an animated map for each NHL team which draws an Indiana Jones-style map of their travels throughout the 2016-2017 season.
 
 <p align="center"><img src="https://github.com/BStaff1986/NHLTravel/blob/master/TOR.gif" alt="Toronto Maple Leafs 2016-2017" width="400"><img src="https://github.com/BStaff1986/NHLTravel/blob/master/MTL.gif" alt="Montreal Canadiens 2016-2017" width="400"></p>
+
+Above is the Toronto Maple Leafs and Montreal Canadiens maps. To create maps for every team, or to create a map for a specific team, run basemap.py. You will need NHLTravel.py and <a href='https://ffmpeg.org/download.html'>FFMPEGWriter</a> to run the program successfully. 
