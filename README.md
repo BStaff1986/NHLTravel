@@ -1,4 +1,4 @@
-![alt text](https://github.com/BStaff1986/NHLTravel/blob/master/OTT.gif "Ottawa Senators 2016-2017")
+<center>![alt text](https://github.com/BStaff1986/NHLTravel/blob/master/OTT.gif "Ottawa Senators 2016-2017")</center>
 
 # NHLTravel
 
