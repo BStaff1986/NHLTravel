@@ -8,9 +8,10 @@ import time
 
 nhl = NHLTravel()
 
-#all_teams = [nhl.convert_name_to_abbr(x) for x in nhl.sched['Home'].unique()]
-# SAMPLE
-all_teams = ['MIN',]
+
+all_teams = [nhl.convert_name_to_abbr(x) for x in nhl.sched['Home'].unique()]
+# Uncomment ine 13 and change/add team names to the list to pick team maps
+# all_teams = ['MIN',]
 
 def get_colors(team):
     # First hex Code is ocean color
