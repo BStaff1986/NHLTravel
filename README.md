@@ -1,4 +1,4 @@
-<center>![alt text](https://github.com/BStaff1986/NHLTravel/blob/master/OTT.gif "Ottawa Senators 2016-2017")</center>
+![alt text](https://github.com/BStaff1986/NHLTravel/blob/master/OTT.gif "Ottawa Senators 2016-2017")
 
 # NHLTravel
 
@@ -39,3 +39,6 @@ I grabbed a dataset containing the 2016-2017 NHL season and another dataset that
 | Washington, D.C. | 54685          | 1529          | San Jose      | 3888     | Philadelphia     | 199      |
 | Winnipeg         | 71956          | 1842          | Sunrise       | 3017     | Saint Paul       | 628      |
 
+After creating this table, I wanted to create a visual representation of each team's travel itinerary. Using matplotlib's animation features in conjunction with Basemap, I was able to create animated maps which traced the paths each team will take during the 2016-2017 season. 
+
+|![alt text](https://github.com/BStaff1986/NHLTravel/blob/master/TOR.gif "Ottawa Senators 2016-2017")  ![alt text](https://github.com/BStaff1986/NHLTravel/blob/master/MTL.gif "Ottawa Senators 2016-2017") 
