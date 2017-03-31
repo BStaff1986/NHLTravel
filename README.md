@@ -41,4 +41,4 @@ I grabbed a dataset containing the 2016-2017 NHL season and another dataset that
 
 After creating this table, I wanted to create a visual representation of each team's travel itinerary. Using matplotlib's animation features in conjunction with Basemap, I was able to create animated maps which traced the paths each team will take during the 2016-2017 season. 
 
-<p align="center"<img src="https://github.com/BStaff1986/NHLTravel/blob/master/TOR.gif" alt="Toronto Maple Leafs 2016-2017" width="400"><img src="https://github.com/BStaff1986/NHLTravel/blob/master/MTL.gif" alt="Montreal Canadiens 2016-2017" width="400"></p>
+<p align="center"><img src="https://github.com/BStaff1986/NHLTravel/blob/master/TOR.gif" alt="Toronto Maple Leafs 2016-2017" width="400"><img src="https://github.com/BStaff1986/NHLTravel/blob/master/MTL.gif" alt="Montreal Canadiens 2016-2017" width="400"></p>
