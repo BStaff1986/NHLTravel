@@ -1,6 +1,10 @@
+![alt text](https://github.com/BStaff1986/NHLTravel/blob/master/OTT.gif "Ottawa Senators 2016-2017")
+
 # NHLTravel
 
 On February 9th, 2017, during the TSN broadcast of the Ottawa Senators game against the Dallas Stars, the TSN announcing team had a discussion about the travel itineraries of NHL teams. They asserted that Dallas had the worst travel schedule because their city was geographically isolated relative to other NHL cities. I thought it would be interesting to explore the data and see if their intuitions were correct. 
+
+I grabbed a dataset containing the 2016-2017 NHL season and another dataset that contained the geocoordinates for major world cities. Whenever a team traveled to a new city, the great circle distance between the two locations was calculated. Below is a table containing the total amount each team will travel in the 2016-2017 season (excluding pre- and post-season). 
 
 |                  | Total Traveled | Avg. Distance | Furthest City | Distance | Closest City     | Distance |
 |------------------|----------------|---------------|---------------|----------|------------------|----------|
@@ -34,3 +38,4 @@ On February 9th, 2017, during the TSN broadcast of the Ottawa Senators game agai
 | Vancouver        | 73608          | 2963          | Sunrise       | 4485     | Calgary          | 673      |
 | Washington, D.C. | 54685          | 1529          | San Jose      | 3888     | Philadelphia     | 199      |
 | Winnipeg         | 71956          | 1842          | Sunrise       | 3017     | Saint Paul       | 628      |
+
